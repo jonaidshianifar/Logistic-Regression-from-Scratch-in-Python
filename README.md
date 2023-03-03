@@ -15,7 +15,9 @@ The implementation uses two datasets: blobs400 and moons500, which are simple da
 ## Results:
 The logistic regression model achieved an accuracy of 95% on the test dataset for blobs400 and 81% for moons500. This is a good result for a binary classification problem, and the model was trained using a learning rate of 0.01.
 
-![Test Image 4](https://github.com/jonaidshianifar/Logistic-Regression-from-Scratch-in-Python/blob/main/bloobs400.png)
-
+![Result for blobs400](https://github.com/jonaidshianifar/Logistic-Regression-from-Scratch-in-Python/blob/main/bloobs400.png)
+Result for blobs400
+![Result for moons500](https://github.com/jonaidshianifar/Logistic-Regression-from-Scratch-in-Python/blob/main/moons500.png)
+Result for moons500
 ## Conclusion:
 This implementation shows how to implement logistic regression from scratch in Python using gradient descent. The model achieved good accuracy on the test dataset, which demonstrates the effectiveness of logistic regression for binary classification problems. Feel free to use this implementation as a starting point for your own machine learning projects!
